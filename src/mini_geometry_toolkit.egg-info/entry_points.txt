@@ -1,0 +1,2 @@
+[console_scripts]
+geometry-tool = mini_geometry_toolkit.cli:run

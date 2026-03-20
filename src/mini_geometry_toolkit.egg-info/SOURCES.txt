@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+src/mini_geometry_toolkit.egg-info/PKG-INFO
+src/mini_geometry_toolkit.egg-info/SOURCES.txt
+src/mini_geometry_toolkit.egg-info/dependency_links.txt
+src/mini_geometry_toolkit.egg-info/entry_points.txt
+src/mini_geometry_toolkit.egg-info/requires.txt
+src/mini_geometry_toolkit.egg-info/top_level.txt
