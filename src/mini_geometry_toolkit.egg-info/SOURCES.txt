@@ -1,6 +1,13 @@
+LICENSE
 README.md
 pyproject.toml
 setup.py
+src/mini_geometry_toolkit/__init__.py
+src/mini_geometry_toolkit/circle.py
+src/mini_geometry_toolkit/cli.py
+src/mini_geometry_toolkit/rectangle.py
+src/mini_geometry_toolkit/square.py
+src/mini_geometry_toolkit/visualizer.py
 src/mini_geometry_toolkit.egg-info/PKG-INFO
 src/mini_geometry_toolkit.egg-info/SOURCES.txt
 src/mini_geometry_toolkit.egg-info/dependency_links.txt

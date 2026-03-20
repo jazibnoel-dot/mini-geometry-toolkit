@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="mini-geometry-toolkit",
-    version="0.0.1",
+    version="0.0.2",
     description="A Python toolkit to calculate and visualize geometric shapes",
     author="Your Name",
     author_email="youremail@example.com",
