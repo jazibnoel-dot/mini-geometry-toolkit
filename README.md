@@ -1,6 +1,2 @@
-# Mini Geometry Toolkit
-
-This project helps calculate:
-- Circle area
-- Square area
-- Rectangle area
+# mini-geometry-toolkit
+A beginner-friendly Python library for geometric calculations and visualization
